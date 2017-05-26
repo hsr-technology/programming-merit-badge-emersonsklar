@@ -1,0 +1,7 @@
+Below listed are web resources where you can find information on HTML5 and CSS:
+
+https://www.w3schools.com/html/
+https://www.w3schools.com/css/
+
+This list will be expanded as I find more high-quality resources beneficial to using
+HTML5 and CSS.

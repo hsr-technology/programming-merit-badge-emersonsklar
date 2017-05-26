@@ -1,8 +1,10 @@
+/*Create a font family with the provided file.*/
 @font-face {
-	font-family: "MSlab";
-	src: url("Museo_Slab_700.otf");
+	font-family: "MSlab"; /*Name of the font family.*/
+	src: url("Museo_Slab_700.otf"); /*File the font is stored in.*/
 }
 
+/*Assignment of the created MSlab font family to the h1, h2, and h3 elements.*/
 h1, h2, h3 {
 	font-family: MSlab;
 }
