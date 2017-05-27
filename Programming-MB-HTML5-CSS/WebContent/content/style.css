@@ -8,3 +8,13 @@
 h1, h2, h3 {
 	font-family: MSlab;
 }
+
+/*Items in this element affect the body HTML element.*/
+body {
+	width: 200%; /*Adjusts the width of the element.*/
+}
+
+header {
+	padding-top: 10px; /*Adjusts the padding above the element.*/
+	padding-bottom: 0px; /*Adjusts the padding below the element.*/
+}
