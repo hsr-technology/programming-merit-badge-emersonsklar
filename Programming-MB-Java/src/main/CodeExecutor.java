@@ -1,7 +1,5 @@
 package main;
 
-import DateCalculator; //Allows the CodeExecutor class to use the DateCalculator class.
-
 /*
  *	The purpose of this class is to run three test cases for the DateCalculator class (to be made).
  *	The only needs for the class is to have four (4) total methods for setting the date, and retrieving
